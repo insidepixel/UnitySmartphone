@@ -1,0 +1,3 @@
+Next,"Emergency services, how can I assist you?"
+MultiLine,3,"Emergency services, how can I assist you?","I need a fire truck",-1,"I need police assistance",2,"I need an ambulance",-1
+Event,PoliceCar,-1
